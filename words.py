@@ -1,0 +1,1 @@
+words = 'damola', 'abiola', 'correction', 'madness', 'money', 'monkey', 'love', 'laptop', 'coding', 'computer', 'selection', 'sample', 'doughnut', 'daddy', 'dummy', 'forbidden', 'number', 'banker'
